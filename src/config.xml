@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>  
+    <student name="0" sex="male"/>  
+    <student name="1" sex="female"/>  
+    <student name="2" sex="male"/>  
+    <student name="3" sex="female"/>  
+    <student name="4" sex="male"/> 
+</config>  
